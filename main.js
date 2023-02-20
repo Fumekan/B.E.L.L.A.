@@ -175,4 +175,4 @@ client.on('message', message => {
 });
 
 // Přihlášení k Discord API
-client.login('ODcwNzAxMTM3NDE2ODM1MTUy.GgBXTV.0bNTyx-2X76PCemTCn8roT27iz5bqgNXS2VlKA');
+client.login('YOUR-TOKEN-HERE');
